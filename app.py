@@ -24,7 +24,8 @@ def optimize_signature(image_path):
 
 # Streamlit UI
 st.title("Automated Signature System")
-st.image("logo.png", width=1000)
+st.image("D:\Automated_Air_Signature_system\logo.png", width=1000)
+
 st.markdown(
     """
     <style>
