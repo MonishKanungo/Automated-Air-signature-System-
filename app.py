@@ -19,7 +19,7 @@ def optimize_signature(image_path):
 
 
 st.title("Automated Signature System")
-st.image("Automated_Air_Signature_system/logo.png", width=1000)
+
 
 st.markdown(
     """
